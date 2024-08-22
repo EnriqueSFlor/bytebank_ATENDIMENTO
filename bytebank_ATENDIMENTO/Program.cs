@@ -4,7 +4,7 @@ using bytebank_ATENDIMENTO.bytebank.Util;
 using System.Collections;
 
 Console.WriteLine("Boas Vindas ao ByteBank, Atendimento.");
-///testeee
+
 #region Exemplos Arrays em C#
 void TestaArrayDeContasCorrentes()
 {
